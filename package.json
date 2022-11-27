@@ -27,7 +27,7 @@
     "typeorm": "0.3.10"
   },
   "devDependencies": {
-    "@subsquid/substrate-metadata-explorer": "1.0.8",
+    "@subsquid/substrate-metadata-explorer": "1.0.9",
     "@subsquid/substrate-typegen": "1.5.0",
     "@subsquid/typeorm-codegen": "0.2.3",
     "@types/big.js": "6.1.6",
